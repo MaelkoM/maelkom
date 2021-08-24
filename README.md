@@ -1,10 +1,10 @@
-# Hi, I'm Michael
-### I'm a data scientist with roots in mechanical engineering.
+## Hi, I'm Michael
+#### I'm a data scientist with roots in mechanical engineering and a passion for coding visual art.
 <a href="https://www.linkedin.com/in/MichaelMallok/">
-  <img align="left" alt="Michael's LinkedIN" width="22px" src="https://allfacebook.de/wp-content/uploads/2020/02/ig-icon-292x300.png" />
+  <img align="left" alt="Michael's LinkedIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://www.instagram.com/humanfractal/">
-  <img align="left" alt="Michael's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="Michael's Instagram" width="22px" src="https://allfacebook.de/wp-content/uploads/2020/02/ig-icon-292x300.png" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maelkom.maelkom)

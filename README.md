@@ -6,7 +6,9 @@
 <a href="https://www.instagram.com/humanfractal/">
   <img align="left" alt="Michael's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=MaelkoM.MaelkoM)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=maelkom.maelkom)
+
 <br>
 <br>
 <a>  

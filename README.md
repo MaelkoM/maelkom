@@ -6,7 +6,7 @@
 [![Visitor count][visitors-shield]][visitors-url]
 
 <a>  
-Have fun browsing through my projects of data science, small apps and general coding!  
+Have fun browsing through my data science projects, small apps and general coding!  
 </a>
 <br>
 <br>

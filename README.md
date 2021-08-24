@@ -1,6 +1,7 @@
 # Hi, I'm Michael
 ### I'm a data scientist with roots in mechanical engineering.
 
+Have fun browsing through my projects of data science, small apps and general coding!
 
 
 ## Some Stats

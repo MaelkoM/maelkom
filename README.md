@@ -1,14 +1,9 @@
 ## Hi, I'm Michael
 #### I'm a data scientist with roots in mechanical engineering and a passion for coding visual art.
-<a href="https://www.linkedin.com/in/MichaelMallok/">
-  <img align="left" alt="Michael's LinkedIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-</a>
-<a href="https://www.instagram.com/humanfractal/">
-  <img align="left" alt="Michael's Instagram" width="22px" src="https://allfacebook.de/wp-content/uploads/2020/02/ig-icon-292x300.png" />
-</a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=maelkom.maelkom)
-
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![Visitor count][visitors-shield]][visitors-url]
 
 <a>  
 Have fun browsing through my projects of data science, small apps and general coding!  
@@ -22,3 +17,10 @@ Have fun browsing through my projects of data science, small apps and general co
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelkoM&layout=compact&theme=tokyonight)](https://github.com/MaelkoM/github-readme-stats)
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaelkoM&layout=compact&theme=tokyonight)](https://github.com/MaelkoM/github-readme-stats)
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&color=223&labelColor=334
+[linkedin-url]: https://www.linkedin.com/in/MichaelMallok
+[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat&logo=instagram&color=223&labelColor=334
+[instagram-url]: https://www.instagram.com/humanfractal
+[visitors-shield]: https://shields-io-visitor-counter.herokuapp.com/badge?page=maelkom.maelkom&color=334&labelColor=223&logo=GitHub&logoColor=FFFFFF&style=flat
+[visitors-url]: https://github.com/maelkom/maelkom

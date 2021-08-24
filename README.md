@@ -9,13 +9,16 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maelkom.maelkom)
 
-<br>
-<br>
+
 <a>  
 Have fun browsing through my projects of data science, small apps and general coding!  
 </a>
-  
-### Some Stats
+<br>
+<br>
+
+#### Some Stats
 (although they might not be impressive, yet)  
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelkoM&layout=compact&theme=dracula&hide_border=true)](https://github.com/MaelkoM/github-readme-stats)
+
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaelkoM&layout=compact&theme=dracula&hide_border=true)](https://github.com/MaelkoM/github-readme-stats)

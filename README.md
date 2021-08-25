@@ -16,11 +16,11 @@ Have fun browsing through my data science projects, small apps and general codin
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=maelkom&show_icons=true&theme=tokyonight)](https://github.com/MaelkoM/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelkoM&layout=compact&theme=tokyonight)](https://github.com/MaelkoM/github-readme-stats)
-
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaelkoM&layout=compact&theme=tokyonight)](https://github.com/MaelkoM/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelkoM&layout=compact&theme=tokyonight)](https://github.com/MaelkoM/github-readme-stats)
 
+#### Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the stats rep!
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&color=223&labelColor=334
 [linkedin-url]: https://www.linkedin.com/in/MichaelMallok

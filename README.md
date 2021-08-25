@@ -14,11 +14,11 @@ Have fun browsing through my data science projects, small apps and general codin
 #### Some Stats
 (although they might not be impressive, yet)  
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=maelkom&show_icons=true&theme=tokyonight)](https://github.com/MaelkoM/github-readme-stats)
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=maelkom&show_icons=true&theme=tokyonight)](https://github.com/MaelkoM)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaelkoM&layout=compact&theme=tokyonight)](https://github.com/MaelkoM/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaelkoM&layout=compact&theme=tokyonight)](https://github.com/MaelkoM)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelkoM&layout=compact&theme=tokyonight)](https://github.com/MaelkoM/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelkoM&layout=compact&theme=tokyonight)](https://github.com/MaelkoM)
 
 #### Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the stats rep!
 
